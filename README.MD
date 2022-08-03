@@ -1,4 +1,4 @@
-# Coponente de Validação Formulário
+#Validação Formulário
 
 Formulário de cadastro paa período de testes.
 Para o projeto foi usado React com vite, para validação do formulário javascrip e estilização TailwindCss .
@@ -33,7 +33,7 @@ Para fazer o deploy desse projeto rode
 
 ## Referência
 
--   [Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
+-   [Design preview for the Interactive Formulário de Validação coding challenge](src/assets/images/app.png/)
 -   [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
 ## Autores
