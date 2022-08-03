@@ -1,4 +1,4 @@
-#Validação Formulário
+# Validação Formulário
 
 Formulário de cadastro paa período de testes.
 Para o projeto foi usado React com vite, para validação do formulário javascrip e estilização TailwindCss .
@@ -7,7 +7,7 @@ Para o projeto foi usado React com vite, para validação do formulário j
 
 ## Stack utilizada
 
-**Front-end:** React, TailwindCSS
+**Front-end:** React, Vite e TailwindCSS
 
 ## Demonstração
 
