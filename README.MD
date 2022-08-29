@@ -1,6 +1,6 @@
 # Validação Formulário
 
-Formulário de cadastro paa período de testes.
+Formulário de cadastro para período de testes.
 Para o projeto foi usado React com vite, para validação do formulário javascrip e estilização TailwindCss .
 
 <img src='src/assets/images/app.png/'>
